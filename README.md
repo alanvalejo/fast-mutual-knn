@@ -6,9 +6,9 @@ This is an alternative Python implementation of graph construction method MkNN (
 
 **Usage**
 
-> RGCLI execution
+> MkNN execution
 
-    python mutual-knn.py -f input/square.dat -k 3
+    python mknn.py -f input/square.dat -k 3
 
 > Input: any numerical dataset with any delimiter for attributes
 
