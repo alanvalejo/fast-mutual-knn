@@ -8,7 +8,7 @@ This is an alternative Python implementation of graph construction method MkNN (
 
 > MkNN execution
 
-    python mknn.py -f input/square.dat -k 3
+    python mknn.pyo -f input/square.dat -k 3
 
 > Input: any numerical dataset with any delimiter for attributes
 
