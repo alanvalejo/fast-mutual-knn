@@ -14,6 +14,7 @@ This is an alternative Python implementation of graph construction method MkNN (
 
 > Output: a weighted undirected graph in the format: filename + '-gbili.ncol'
 
+
 **Parameters**
 
 | Option					| Domain					| Description															|
@@ -24,6 +25,21 @@ This is an alternative Python implementation of graph construction method MkNN (
 | -t, --threads				| [0,n] Integer interval	| Number of  threads													|
 | -e, --format				| ['ncol', 'pajek']			| Format output file													|
 | -c, --skip_last_column	| [0,n] Integer interval	| Skip the last column													|
+
+**Dependencies**
+
+* Python: tested with version 2.7.13.
+* Packages needed: numpy, scipy and multiprocessing.
+
+**Known Bugs**
+
+Please contact the author for problems and bug report.
+
+**Contact**
+
+* Alan Valejo.
+* Ph.D. candidate at University of São Paolo (USP), Brazil.
+* alanvalejo@gmail.com.
 
 **References**
 
