@@ -5,6 +5,7 @@
 !.gitignore
 !COPYING.md
 !README.md
-!mknn.pyo
-!helper.pyo
+!mknn.so
+!main.py
+!input
 # etc...
