@@ -6,7 +6,7 @@ This is an alternative Python implementation of graph construction method MkNN (
 
 **Download**
 
-* You can download the MkNN software in http://www.alanvalejo.com.br/software?name=Fast+MkNN
+* You can download the Fast MkNN software in http://www.alanvalejo.com.br/software?name=Fast+MkNN
 
 **Usage**
 
