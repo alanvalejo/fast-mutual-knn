@@ -12,7 +12,7 @@ This is an alternative Python implementation of graph construction method MkNN (
 
 > Input: any numerical dataset with any delimiter for attributes
 
-> Output: a weighted undirected graph in the format: filename + '-gbili.ncol'
+> Output: a weighted undirected graph in the format: filename + '-mknn.ncol'
 
 
 **Parameters**
