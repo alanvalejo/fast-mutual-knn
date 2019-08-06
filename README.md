@@ -6,7 +6,7 @@ This is an alternative Python implementation of graph construction method MkNN (
 
 **Download**
 
-* You can download the MOb software in http://www.alanvalejo.com.br/software?name=mknn
+* You can download the MkNN software in http://www.alanvalejo.com.br/software?name=mknn
 
 **Usage**
 
@@ -44,16 +44,12 @@ Please contact the author for problems and bug report.
 
 * Alan Valejo.
 * Ph.D. candidate at University of São Paolo (USP), Brazil.
-* alanvalejo@gmail.com.
+* alanvalejo@icmc.ups.br.
 
-**License (COPYING.md)**
+**License and credits**
 
-* Can be used for creating unlimited applications
-* Can be distributed in binary or object form only
-* Non-commercial use only
-* Can modify source-code and distribute modifications (derivative works)
+* The GNU General Public License v3.0
 * Giving credit to the author by citing the papers [1]
-* License will expire in 2018, July, and will be renewed.
 
 **References**
 
